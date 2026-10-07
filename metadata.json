@@ -1,0 +1,6 @@
+{
+  "name": "Fruit Disease Detection and Classification System",
+  "description": "Real-time AI/ML agricultural diagnostic platform using EfficientNetB0 Transfer Learning and Vision Transformer (ViT) Self-Attention with Grad-CAM Explainable AI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
